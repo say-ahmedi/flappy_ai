@@ -1,0 +1,1 @@
+print('Whats up man , what do you think of my new buckle shoes?')
